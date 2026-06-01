@@ -43,7 +43,7 @@ ANTHROPIC_API_KEY=your_key
 
 Run:
 ```bash
-python main.py
+persona.py
 ```
 
 ---
