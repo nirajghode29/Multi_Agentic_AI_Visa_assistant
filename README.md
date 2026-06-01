@@ -3,6 +3,11 @@ Multi Agent Visa Chatbot assistant using OpenAI and Anthropic API
 
 # 🧠 Agentic Immigration Assistant
 
+## ⚠️ Disclaimer
+
+> This tool provides **general educational information only** — not legal advice.
+> Always consult a licensed immigration attorney for your specific case.
+
 A multi-agent AI system that reasons step-by-step through U.S. immigration questions — powered by **GPT-4.1** as the thinker and **Claude** as the validator.
 
 ---
